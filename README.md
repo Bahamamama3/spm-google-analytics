@@ -1,3 +1,5 @@
 # google-analytics-spm
 
-Package.swift courtesy of [kammodze](https://github.com/kammodze/google-analytics-ios-spm)
+copy of Package.swift for GoogleAnalytics
+
+source: https://github.com/nrkno/spm-google-analytics.git
