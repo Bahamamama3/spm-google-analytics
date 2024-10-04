@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>MinimumOSVersion</key>
-	<string>8.0</string>
+	<string>14.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.0</string>
+	<string>1.0</string>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -51,7 +51,6 @@
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
-				<string>i386</string>
 				<string>x86_64</string>
 			</array>
 			<key>SupportedPlatform</key>
